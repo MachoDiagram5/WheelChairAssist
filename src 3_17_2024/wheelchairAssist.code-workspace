@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../NCSU notes/fall 2023/ECE 484/wheelchairAssist"
+		},
+		{
+			"name": "WheelChairAssist",
+			"path": "../../WheelChairAssist"
+		},
+		{
+			"name": "ProgramWheelChairAssist",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
